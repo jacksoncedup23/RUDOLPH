@@ -6,12 +6,12 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "url": "https://app.powerbi.com/groups/719fbced-862e-4690-8bf9-b638bcd2e7e6/reports/d7f80401-7c38-4f91-9171-7b322bef69b3/ReportSectionddece0697f34694c5acc?experience=power-bi",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "url": "https://app.powerbi.com/groups/719fbced-862e-4690-8bf9-b638bcd2e7e6/reports/d7f80401-7c38-4f91-9171-7b322bef69b3/ReportSection342e4b83c446704e7628?experience=power-bi&chromeless=true",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     }

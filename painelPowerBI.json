@@ -19,6 +19,11 @@
       "url": "https://app.powerbi.com/groups/69af09f2-1261-4ed8-9fe7-2367867d187f/reports/f3e8a0cf-6d67-4a75-825c-00fcdc8ef21c/ReportSection?experience=power-bi&chromeless=true",
       "duration": 600,
       "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "http://mes.rudolph.com.br:9096/#/andonscreen/7da19852-5c6e-439a-8272-c22fe65086b1",
+      "duration": 600,
+      "tabReloadIntervalSeconds": 0
     }
   ]
 }
